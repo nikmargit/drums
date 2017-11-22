@@ -25,6 +25,10 @@ button {
     transition: 0.4s;
 }
 
+.btn:focus{
+    box-shadow: none;
+}
+
 .container {
     text-align: center;
 }
